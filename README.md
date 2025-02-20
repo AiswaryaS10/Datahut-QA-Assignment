@@ -1,1 +1,2 @@
 # Datahut-QA-Assignment
+The dataset provided contains inconsistencies, missing values, formatting errors, and outliers. The goal of this project is to perform a comprehensive data quality assessment and cleaning process to ensure the dataset is accurate, complete, and consistent. This involves identifying data issues, documenting them, and applying corrective measures to improve overall data quality.
